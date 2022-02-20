@@ -1,0 +1,10 @@
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\bin\Debug\DCQPKX.exe.config
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\bin\Debug\DCQPKX.exe
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\bin\Debug\DCQPKX.pdb
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\obj\Debug\Ransomware.csproj.AssemblyReference.cache
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\obj\Debug\Ransomware.launcher2.resources
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\obj\Debug\Ransomware.Properties.Resources.resources
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\obj\Debug\Ransomware.csproj.GenerateResource.cache
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\obj\Debug\Ransomware.csproj.CoreCompileInputs.cache
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\obj\Debug\DCQPKX.exe
+C:\Users\Jamma\source\repos\Ransomware\Ransomware\obj\Debug\DCQPKX.pdb
